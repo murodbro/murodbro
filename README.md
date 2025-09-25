@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there I'm Murodjon Komilov👋
 
+### Software Engineer, Problem Solver, and Tech Explorer 🚀 
 <!--
 **murodbro/murodbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
