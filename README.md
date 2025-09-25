@@ -1,12 +1,17 @@
 <h2 align="left">Hi 👋! My name is Murodjon and I'm a Software Engineer</h2>
 
+🚀 **Python Backend Developer | API Architect | Cloud & Automation Enthusiast**  
+
+I’m a software engineer who builds **scalable backend systems**, **REST APIs**, and **data-driven applications**.  
+Experience includes **e-commerce platforms**, **SaaS products**, and **cloud-deployed microservices**.  
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murodbro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murodbro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -27,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
 
 </div>
-
 ###
 
 <div align="left">
@@ -44,6 +48,18 @@
 
 ###
 
-<br clear="both">
+## 💼 What I Do
+ **Backend Development:** 2+ years with **Django REST Framework** & **FastAPI**  
+ **Databases:** PostgreSQL & MySQL schema design and optimization  
+ **DevOps & Cloud:** Dockerized apps, deployed on **AWS ECS**, CI/CD with GitHub Actions  
+ **Scraping & Automation:** Selenium, BeautifulSoup, Celery + Redis task queues  
+ **System Design:** Modular, secure, and scalable architectures
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🛠️ Tech Stack
+  **Languages:** Python, JavaScript, TypeScript, SQL  
+  **Frameworks:** Django, DRF, FastAPI, React  
+  **Databases:** PostgreSQL, MySQL, SQLite  
+  **Tools:** Docker, Celery, Redis, RabbitMQ, GitHub Actions  
+  **Cloud:** AWS (ECS, S3, RDS), Vercel  
+
+
