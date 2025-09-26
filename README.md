@@ -61,4 +61,7 @@ Experience includes **e-commerce platforms**, **SaaS products**, and **cloud-dep
   **Tools:** Docker, Celery, Redis, RabbitMQ, GitHub Actions  
   **Cloud:** AWS (ECS, S3, RDS), Vercel  
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
